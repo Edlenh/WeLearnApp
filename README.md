@@ -1,5 +1,5 @@
 # We Learn 
-  
+  Social Media app created with Django and Python
   ##  
   ### 
   ## Table of Contents:
