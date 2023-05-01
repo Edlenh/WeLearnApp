@@ -18,7 +18,7 @@
   ## Usage:
   ### Connect with other users to learn new skills
   ## Contributors:
-  ### Be kind
+  ### N/A
   ## Tests:
   ### Please run the following commands to test:
   ### N/A<img width="1007" alt="Screenshot 2023-05-01 112907" src="https://user-images.githubusercontent.com/84059980/235507334-9a67408a-3544-4ec2-a79d-3e0fe5f58765.png">
