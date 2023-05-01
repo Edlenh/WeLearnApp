@@ -14,7 +14,7 @@
   ### Please install the following for the app to function:
   ### pip3 install djangorestframework , python3 -m pip install --upgrade pip 
   ## Description:
-  ### Community driven chat app
+  ### Community driven chat app, created while self teaching python
   ## Usage:
   ### Connect with other users to learn new skills
   ## Contributors:
